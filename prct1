@@ -1,0 +1,11 @@
+7.1 The Digital Tools We Use
+The platform needs a strong, secure, and flexible set of technical tools:
+Front-End (What the User Sees): We use React.js or Angular (chosen because they are reliable
+and fast) and Tailwind CSS for a design that looks great and works perfectly on phones and
+computers.
+Back-End (Data Storage): We use Google Firestore (a type of database) because it updates
+information instantly, which is key for showing mission progress and issuing badges right away.
+Matching Tool: A simple, custom script (written in Python and run by Google Cloud Functions) to
+match skills. In the future, we may use more advanced AI to better understand the text
+descriptions of student skills.
+Badge System: We will connect with a proven Digital Badge platform (like Accredible) to make
